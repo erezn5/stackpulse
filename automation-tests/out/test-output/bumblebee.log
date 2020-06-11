@@ -461,3 +461,23 @@
 2020-06-11 19:03:22 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: input.new-todo]' with value 'Preparing for next day'
 2020-06-11 19:03:25 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: input.toggle-all]' button
 2020-06-11 19:03:25 [INFO ]No items left as expected
+2020-06-11 19:13:41 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 19:13:41 [INFO ]navigation succeeded
+2020-06-11 19:13:41 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (9c48b6cf6d6146c54f14fb8602577904)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 19:13:41 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (9c48b6cf6d6146c54f14fb8602577904)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 19:13:41 [INFO ]Tasks added successfully
+2020-06-11 19:13:55 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (9c48b6cf6d6146c54f14fb8602577904)] -> css selector: button.destroy]' button
+2020-06-11 19:13:55 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 19:13:55 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (9c48b6cf6d6146c54f14fb8602577904)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 19:14:14 [INFO ]Verification of completed task passed successfully
+2020-06-11 19:14:29 [INFO ]Verifying active tasks passed successfully
+2020-06-11 19:14:29 [INFO ]Toggling all tasks
+2020-06-11 19:14:34 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (9c48b6cf6d6146c54f14fb8602577904)] -> css selector: input.toggle-all]' button
+2020-06-11 19:14:34 [INFO ]Clearing all tasks
+2020-06-11 19:14:39 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 19:14:39 [INFO ]List is empty as expected
+2020-06-11 19:14:40 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (9c48b6cf6d6146c54f14fb8602577904)] -> css selector: input.new-todo]' with value 'Take the dog out'
+2020-06-11 19:14:40 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (9c48b6cf6d6146c54f14fb8602577904)] -> css selector: input.new-todo]' with value 'Ordering a new table'
+2020-06-11 19:14:40 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (9c48b6cf6d6146c54f14fb8602577904)] -> css selector: input.new-todo]' with value 'Preparing for next day'
+2020-06-11 19:14:45 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (9c48b6cf6d6146c54f14fb8602577904)] -> css selector: input.toggle-all]' button
+2020-06-11 19:14:45 [INFO ]No items left as expected
