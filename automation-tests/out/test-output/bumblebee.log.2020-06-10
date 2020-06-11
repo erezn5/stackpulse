@@ -1,0 +1,16 @@
+2020-06-10 17:59:07 [INFO ]test_downloads directory created successfully
+2020-06-10 18:07:56 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc//]
+2020-06-10 18:08:48 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc//]
+2020-06-10 18:08:48 [INFO ]navigation succeeded
+2020-06-10 18:08:53 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (0c732232e5f837a6618b8a52b8caa1f3)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-10 18:11:15 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc//]
+2020-06-10 18:11:15 [INFO ]navigation succeeded
+2020-06-10 18:11:25 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (a08640d6c5f7e480c2ce77a100053db9)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-10 19:43:37 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-10 19:43:37 [INFO ]navigation succeeded
+2020-06-10 19:43:47 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (3445246adabddac788e22943ca1a70a2)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-10 19:43:50 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (3445246adabddac788e22943ca1a70a2)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-10 20:40:45 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-10 20:40:45 [INFO ]navigation succeeded
+2020-06-10 20:40:45 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (c47ce3cd404130ef4d88cd8be734e97b)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-10 20:40:45 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (c47ce3cd404130ef4d88cd8be734e97b)] -> css selector: input.new-todo]' with value 'take the garbage out'

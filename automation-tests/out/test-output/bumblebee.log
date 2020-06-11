@@ -1,0 +1,463 @@
+2020-06-11 01:49:38 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 01:49:38 [INFO ]navigation succeeded
+2020-06-11 01:49:38 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (089f72cf896287a8d7362979374eb0ed)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 01:49:38 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (089f72cf896287a8d7362979374eb0ed)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 02:01:26 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 02:01:26 [INFO ]navigation succeeded
+2020-06-11 02:01:26 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (21d01ccd111a0cc89887bf45277f865c)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 02:01:26 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (21d01ccd111a0cc89887bf45277f865c)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 14:31:21 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 14:31:21 [INFO ]navigation succeeded
+2020-06-11 14:31:21 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (51fa8438f610f5311f638ee17a004215)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 14:31:21 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (51fa8438f610f5311f638ee17a004215)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 14:33:13 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (51fa8438f610f5311f638ee17a004215)] -> css selector: button.destroy]' button
+2020-06-11 14:33:31 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 14:33:31 [INFO ]navigation succeeded
+2020-06-11 14:33:31 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (c69a676476f6b24faff6e11521d76791)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 14:33:31 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (c69a676476f6b24faff6e11521d76791)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 14:33:45 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (c69a676476f6b24faff6e11521d76791)] -> css selector: button.destroy]' button
+2020-06-11 15:17:32 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 15:17:32 [INFO ]navigation succeeded
+2020-06-11 15:17:32 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (f2e63c0e07d56c64bc346b167bb70f33)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 15:17:32 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (f2e63c0e07d56c64bc346b167bb70f33)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 15:17:36 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (f2e63c0e07d56c64bc346b167bb70f33)] -> css selector: button.destroy]' button
+2020-06-11 15:19:10 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 15:19:10 [INFO ]navigation succeeded
+2020-06-11 15:19:11 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (006696264799fb36db6313a229605cf7)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 15:19:11 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (006696264799fb36db6313a229605cf7)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 15:19:14 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (006696264799fb36db6313a229605cf7)] -> css selector: button.destroy]' button
+2020-06-11 15:23:00 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 15:23:00 [INFO ]navigation succeeded
+2020-06-11 15:23:00 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (56be73e2219d5e181a362829f0bbc7d4)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 15:23:00 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (56be73e2219d5e181a362829f0bbc7d4)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 15:23:14 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (56be73e2219d5e181a362829f0bbc7d4)] -> css selector: button.destroy]' button
+2020-06-11 15:24:14 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 15:24:14 [INFO ]navigation succeeded
+2020-06-11 15:24:15 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (d623492a8fc50096a7fc3ca90767d3b9)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 15:24:15 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (d623492a8fc50096a7fc3ca90767d3b9)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 15:24:24 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (d623492a8fc50096a7fc3ca90767d3b9)] -> css selector: button.destroy]' button
+2020-06-11 15:25:18 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 15:25:18 [INFO ]navigation succeeded
+2020-06-11 15:25:18 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (18d6d30a80201165e2ba5560ace81e09)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 15:25:18 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (18d6d30a80201165e2ba5560ace81e09)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 15:25:22 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (18d6d30a80201165e2ba5560ace81e09)] -> css selector: button.destroy]' button
+2020-06-11 15:34:11 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 15:34:11 [INFO ]navigation succeeded
+2020-06-11 15:34:11 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (1b4f4b344b30dd85d908735c8b6152c4)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 15:34:11 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (1b4f4b344b30dd85d908735c8b6152c4)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 15:34:49 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 15:34:49 [INFO ]navigation succeeded
+2020-06-11 15:34:49 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (dbed0f4f891ce3dc537671f757c1682a)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 15:34:50 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (dbed0f4f891ce3dc537671f757c1682a)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 15:36:19 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 15:36:19 [INFO ]navigation succeeded
+2020-06-11 15:36:19 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (8c58352cc7f9efcdf221a6962e46727b)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 15:36:19 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (8c58352cc7f9efcdf221a6962e46727b)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 15:36:27 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (8c58352cc7f9efcdf221a6962e46727b)] -> css selector: button.destroy]' button
+2020-06-11 15:59:24 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 15:59:24 [INFO ]navigation succeeded
+2020-06-11 15:59:24 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (40701aa04a9ae8e032e75093c144289b)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 15:59:24 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (40701aa04a9ae8e032e75093c144289b)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 15:59:24 [INFO ]Tasks added successfully
+2020-06-11 15:59:47 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (40701aa04a9ae8e032e75093c144289b)] -> css selector: button.destroy]' button
+2020-06-11 16:01:04 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 16:01:04 [INFO ]navigation succeeded
+2020-06-11 16:01:04 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (615784807c11b17cb270bbffe5b490af)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 16:01:05 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (615784807c11b17cb270bbffe5b490af)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 16:01:05 [INFO ]Tasks added successfully
+2020-06-11 16:01:05 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (615784807c11b17cb270bbffe5b490af)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 16:02:43 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 16:02:43 [INFO ]navigation succeeded
+2020-06-11 16:02:43 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e768b377d88cc7569c21f4396faa1ada)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 16:02:43 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e768b377d88cc7569c21f4396faa1ada)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 16:02:43 [INFO ]Tasks added successfully
+2020-06-11 16:02:44 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e768b377d88cc7569c21f4396faa1ada)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 16:34:28 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 16:34:28 [INFO ]navigation succeeded
+2020-06-11 16:34:28 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (56472ae80af0953fd4000583bf548af6)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 16:34:28 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (56472ae80af0953fd4000583bf548af6)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 16:34:28 [INFO ]Tasks added successfully
+2020-06-11 16:34:29 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (56472ae80af0953fd4000583bf548af6)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:00:51 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:00:51 [INFO ]navigation succeeded
+2020-06-11 17:00:51 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (95f035b62329251fe33985e5cc9911f5)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:00:51 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (95f035b62329251fe33985e5cc9911f5)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:00:51 [INFO ]Tasks added successfully
+2020-06-11 17:00:55 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (95f035b62329251fe33985e5cc9911f5)] -> css selector: button.destroy]' button
+2020-06-11 17:00:55 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (95f035b62329251fe33985e5cc9911f5)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:00:59 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:01:48 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:01:48 [INFO ]navigation succeeded
+2020-06-11 17:01:49 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (adfaaff6e67ce22d9776a412c5eca7b1)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:01:49 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (adfaaff6e67ce22d9776a412c5eca7b1)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:08:47 [INFO ]Tasks added successfully
+2020-06-11 17:09:01 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (adfaaff6e67ce22d9776a412c5eca7b1)] -> css selector: button.destroy]' button
+2020-06-11 17:09:02 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (adfaaff6e67ce22d9776a412c5eca7b1)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:10:28 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:10:28 [INFO ]navigation succeeded
+2020-06-11 17:10:28 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (c0ee362dcfc9198dfc346fdc62112831)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:10:28 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (c0ee362dcfc9198dfc346fdc62112831)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:11:20 [INFO ]Tasks added successfully
+2020-06-11 17:11:35 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (c0ee362dcfc9198dfc346fdc62112831)] -> css selector: button.destroy]' button
+2020-06-11 17:11:36 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (c0ee362dcfc9198dfc346fdc62112831)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:11:40 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:16:56 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:16:56 [INFO ]navigation succeeded
+2020-06-11 17:16:56 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (4523c456d2b7f3e5c859b469dec6b6cc)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:16:57 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (4523c456d2b7f3e5c859b469dec6b6cc)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:16:57 [INFO ]Tasks added successfully
+2020-06-11 17:17:11 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (4523c456d2b7f3e5c859b469dec6b6cc)] -> css selector: button.destroy]' button
+2020-06-11 17:17:11 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (4523c456d2b7f3e5c859b469dec6b6cc)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:17:15 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:19:52 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:19:52 [INFO ]navigation succeeded
+2020-06-11 17:19:52 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (de518459ca168f2206d8688da9f37b14)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:19:52 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (de518459ca168f2206d8688da9f37b14)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:19:52 [INFO ]Tasks added successfully
+2020-06-11 17:19:56 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (de518459ca168f2206d8688da9f37b14)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:19:57 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:20:51 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:20:51 [INFO ]navigation succeeded
+2020-06-11 17:20:52 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (106a893f0a9d21e6dd714e485159a4bf)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:20:52 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (106a893f0a9d21e6dd714e485159a4bf)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:20:52 [INFO ]Tasks added successfully
+2020-06-11 17:20:55 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (106a893f0a9d21e6dd714e485159a4bf)] -> css selector: button.destroy]' button
+2020-06-11 17:20:56 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (106a893f0a9d21e6dd714e485159a4bf)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:21:00 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:21:27 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:27:48 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:27:48 [INFO ]navigation succeeded
+2020-06-11 17:27:48 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (ec2312a1acb7944eaf493862c9f2f42e)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:27:49 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (ec2312a1acb7944eaf493862c9f2f42e)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:27:49 [INFO ]Tasks added successfully
+2020-06-11 17:27:53 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (ec2312a1acb7944eaf493862c9f2f42e)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:27:54 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:30:04 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:30:04 [INFO ]navigation succeeded
+2020-06-11 17:30:04 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (1ee66bcdaa05fc2768a526ab30d0a77e)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:30:05 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (1ee66bcdaa05fc2768a526ab30d0a77e)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:30:05 [INFO ]Tasks added successfully
+2020-06-11 17:30:19 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (1ee66bcdaa05fc2768a526ab30d0a77e)] -> css selector: button.destroy]' button
+2020-06-11 17:30:19 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 17:30:19 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (1ee66bcdaa05fc2768a526ab30d0a77e)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:30:24 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:30:25 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:31:01 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:31:01 [INFO ]navigation succeeded
+2020-06-11 17:31:01 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (95e1551bf26c2f297ef7eebd787d4ae0)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:31:01 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (95e1551bf26c2f297ef7eebd787d4ae0)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:31:01 [INFO ]Tasks added successfully
+2020-06-11 17:31:26 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (95e1551bf26c2f297ef7eebd787d4ae0)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:31:27 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:31:57 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:31:57 [INFO ]navigation succeeded
+2020-06-11 17:31:57 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (01e24bb759e21d5dc7ace0df19d24cf4)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:31:57 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (01e24bb759e21d5dc7ace0df19d24cf4)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:31:57 [INFO ]Tasks added successfully
+2020-06-11 17:32:27 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (01e24bb759e21d5dc7ace0df19d24cf4)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:32:31 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:33:14 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:33:14 [INFO ]navigation succeeded
+2020-06-11 17:33:14 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (1ea009ef65bfe0605dbe699232df7f61)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:33:14 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (1ea009ef65bfe0605dbe699232df7f61)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:33:14 [INFO ]Tasks added successfully
+2020-06-11 17:33:28 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (1ea009ef65bfe0605dbe699232df7f61)] -> css selector: button.destroy]' button
+2020-06-11 17:33:28 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 17:33:29 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (1ea009ef65bfe0605dbe699232df7f61)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:33:48 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:34:04 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:36:04 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:36:04 [INFO ]navigation succeeded
+2020-06-11 17:36:04 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (bc5ffdd324118ff5cc6688e64ee0ffae)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:36:04 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (bc5ffdd324118ff5cc6688e64ee0ffae)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:36:04 [INFO ]Tasks added successfully
+2020-06-11 17:36:08 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (bc5ffdd324118ff5cc6688e64ee0ffae)] -> css selector: button.destroy]' button
+2020-06-11 17:36:08 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 17:36:08 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (bc5ffdd324118ff5cc6688e64ee0ffae)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:36:14 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:36:20 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:42:18 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:42:18 [INFO ]navigation succeeded
+2020-06-11 17:42:19 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (55cb05e78e1d041c77436c94abb5e379)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:42:19 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (55cb05e78e1d041c77436c94abb5e379)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:42:19 [INFO ]Tasks added successfully
+2020-06-11 17:42:23 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (55cb05e78e1d041c77436c94abb5e379)] -> css selector: button.destroy]' button
+2020-06-11 17:42:23 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 17:42:23 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (55cb05e78e1d041c77436c94abb5e379)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:42:27 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:42:27 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:42:42 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (55cb05e78e1d041c77436c94abb5e379)] -> css selector: input.toggle-all]' button
+2020-06-11 17:42:58 [INFO ]All tasks already marked as 
+2020-06-11 17:44:56 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:44:56 [INFO ]navigation succeeded
+2020-06-11 17:44:56 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (ad83b8bc98ce79ec0c84d297b968ded4)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:44:56 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (ad83b8bc98ce79ec0c84d297b968ded4)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:44:56 [INFO ]Tasks added successfully
+2020-06-11 17:45:00 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (ad83b8bc98ce79ec0c84d297b968ded4)] -> css selector: button.destroy]' button
+2020-06-11 17:45:00 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 17:45:00 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (ad83b8bc98ce79ec0c84d297b968ded4)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:45:04 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:45:05 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:45:21 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (ad83b8bc98ce79ec0c84d297b968ded4)] -> css selector: input.toggle-all]' button
+2020-06-11 17:45:47 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:45:47 [INFO ]navigation succeeded
+2020-06-11 17:45:47 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (807e2a9715f0261757f6b548300b6baf)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:45:47 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (807e2a9715f0261757f6b548300b6baf)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:45:47 [INFO ]Tasks added successfully
+2020-06-11 17:45:51 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (807e2a9715f0261757f6b548300b6baf)] -> css selector: button.destroy]' button
+2020-06-11 17:45:51 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 17:45:52 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (807e2a9715f0261757f6b548300b6baf)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:45:55 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:45:56 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:47:01 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (807e2a9715f0261757f6b548300b6baf)] -> css selector: input.toggle-all]' button
+2020-06-11 17:47:03 [INFO ]All tasks already marked as 
+2020-06-11 17:47:34 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:47:34 [INFO ]navigation succeeded
+2020-06-11 17:47:34 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (081ea6eee5981eb9bf1c9ed9100cd286)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:47:34 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (081ea6eee5981eb9bf1c9ed9100cd286)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:47:35 [INFO ]Tasks added successfully
+2020-06-11 17:47:38 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (081ea6eee5981eb9bf1c9ed9100cd286)] -> css selector: button.destroy]' button
+2020-06-11 17:47:38 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 17:47:39 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (081ea6eee5981eb9bf1c9ed9100cd286)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:47:42 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:47:43 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:48:19 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:48:19 [INFO ]navigation succeeded
+2020-06-11 17:48:19 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (35f3b3835dd840c9b4da94f7cf426c59)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:48:19 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (35f3b3835dd840c9b4da94f7cf426c59)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:48:19 [INFO ]Tasks added successfully
+2020-06-11 17:48:23 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (35f3b3835dd840c9b4da94f7cf426c59)] -> css selector: button.destroy]' button
+2020-06-11 17:48:23 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 17:48:23 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (35f3b3835dd840c9b4da94f7cf426c59)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:48:27 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:48:27 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:48:37 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (35f3b3835dd840c9b4da94f7cf426c59)] -> css selector: input.toggle-all]' button
+2020-06-11 17:48:45 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 17:55:00 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:55:00 [INFO ]navigation succeeded
+2020-06-11 17:55:00 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (861fe1920f6d5e82127515346db4e20b)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:55:01 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (861fe1920f6d5e82127515346db4e20b)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:55:01 [INFO ]Tasks added successfully
+2020-06-11 17:55:05 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (861fe1920f6d5e82127515346db4e20b)] -> css selector: button.destroy]' button
+2020-06-11 17:55:05 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 17:55:05 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (861fe1920f6d5e82127515346db4e20b)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:55:09 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:55:09 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:55:09 [INFO ]Toggling all tasks
+2020-06-11 17:55:09 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (861fe1920f6d5e82127515346db4e20b)] -> css selector: input.toggle-all]' button
+2020-06-11 17:55:09 [INFO ]Clearing all tasks
+2020-06-11 17:55:17 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 17:55:57 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:55:57 [INFO ]navigation succeeded
+2020-06-11 17:55:58 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (b1fd95c02e1251d2fdd07315421cefa4)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:55:58 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (b1fd95c02e1251d2fdd07315421cefa4)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:55:58 [INFO ]Tasks added successfully
+2020-06-11 17:56:22 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (b1fd95c02e1251d2fdd07315421cefa4)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:56:23 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:56:24 [INFO ]Toggling all tasks
+2020-06-11 17:56:24 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (b1fd95c02e1251d2fdd07315421cefa4)] -> css selector: input.toggle-all]' button
+2020-06-11 17:56:24 [INFO ]Clearing all tasks
+2020-06-11 17:56:24 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 17:56:40 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 17:56:40 [INFO ]navigation succeeded
+2020-06-11 17:56:40 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (295b0538b242fcc15a3d629685a641d9)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 17:56:40 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (295b0538b242fcc15a3d629685a641d9)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:56:40 [INFO ]Tasks added successfully
+2020-06-11 17:56:44 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (295b0538b242fcc15a3d629685a641d9)] -> css selector: button.destroy]' button
+2020-06-11 17:56:44 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 17:56:45 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (295b0538b242fcc15a3d629685a641d9)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 17:56:48 [INFO ]Verification of completed task passed successfully
+2020-06-11 17:56:49 [INFO ]Verifying active tasks passed successfully
+2020-06-11 17:56:49 [INFO ]Toggling all tasks
+2020-06-11 17:56:49 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (295b0538b242fcc15a3d629685a641d9)] -> css selector: input.toggle-all]' button
+2020-06-11 17:56:49 [INFO ]Clearing all tasks
+2020-06-11 17:56:49 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:31:54 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 18:31:54 [INFO ]navigation succeeded
+2020-06-11 18:31:54 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (7f699bd9b775072553b8fdceaf92a58d)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 18:31:55 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (7f699bd9b775072553b8fdceaf92a58d)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:31:55 [INFO ]Tasks added successfully
+2020-06-11 18:31:58 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (7f699bd9b775072553b8fdceaf92a58d)] -> css selector: button.destroy]' button
+2020-06-11 18:31:58 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 18:31:59 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (7f699bd9b775072553b8fdceaf92a58d)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:32:03 [INFO ]Verification of completed task passed successfully
+2020-06-11 18:32:03 [INFO ]Verifying active tasks passed successfully
+2020-06-11 18:32:03 [INFO ]Toggling all tasks
+2020-06-11 18:32:03 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (7f699bd9b775072553b8fdceaf92a58d)] -> css selector: input.toggle-all]' button
+2020-06-11 18:32:03 [INFO ]Clearing all tasks
+2020-06-11 18:32:04 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:36:38 [INFO ]List is empty as expected
+2020-06-11 18:40:14 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 18:40:14 [INFO ]navigation succeeded
+2020-06-11 18:40:14 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (874e340ea4456186cfe91b9bde6ab9e4)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 18:40:15 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (874e340ea4456186cfe91b9bde6ab9e4)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:40:15 [INFO ]Tasks added successfully
+2020-06-11 18:40:20 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (874e340ea4456186cfe91b9bde6ab9e4)] -> css selector: button.destroy]' button
+2020-06-11 18:40:20 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 18:40:20 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (874e340ea4456186cfe91b9bde6ab9e4)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:40:40 [INFO ]Verification of completed task passed successfully
+2020-06-11 18:40:55 [INFO ]Verifying active tasks passed successfully
+2020-06-11 18:40:55 [INFO ]Toggling all tasks
+2020-06-11 18:41:01 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (874e340ea4456186cfe91b9bde6ab9e4)] -> css selector: input.toggle-all]' button
+2020-06-11 18:41:01 [INFO ]Clearing all tasks
+2020-06-11 18:41:06 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:41:06 [INFO ]List is empty as expected
+2020-06-11 18:41:07 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (874e340ea4456186cfe91b9bde6ab9e4)] -> css selector: input.new-todo]' with value 'Take the dog out'
+2020-06-11 18:41:07 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (874e340ea4456186cfe91b9bde6ab9e4)] -> css selector: input.new-todo]' with value 'Ordering a new table'
+2020-06-11 18:41:07 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (874e340ea4456186cfe91b9bde6ab9e4)] -> css selector: input.new-todo]' with value 'Preparing for next day'
+2020-06-11 18:43:45 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 18:43:45 [INFO ]navigation succeeded
+2020-06-11 18:43:45 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (b28ddd712f38ee114f2e34294db27673)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 18:43:45 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (b28ddd712f38ee114f2e34294db27673)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:43:45 [INFO ]Tasks added successfully
+2020-06-11 18:43:49 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (b28ddd712f38ee114f2e34294db27673)] -> css selector: button.destroy]' button
+2020-06-11 18:43:49 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 18:43:49 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (b28ddd712f38ee114f2e34294db27673)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:43:53 [INFO ]Verification of completed task passed successfully
+2020-06-11 18:43:53 [INFO ]Verifying active tasks passed successfully
+2020-06-11 18:43:53 [INFO ]Toggling all tasks
+2020-06-11 18:43:54 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (b28ddd712f38ee114f2e34294db27673)] -> css selector: input.toggle-all]' button
+2020-06-11 18:43:54 [INFO ]Clearing all tasks
+2020-06-11 18:43:54 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:43:54 [INFO ]List is empty as expected
+2020-06-11 18:43:54 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (b28ddd712f38ee114f2e34294db27673)] -> css selector: input.new-todo]' with value 'Take the dog out'
+2020-06-11 18:43:54 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (b28ddd712f38ee114f2e34294db27673)] -> css selector: input.new-todo]' with value 'Ordering a new table'
+2020-06-11 18:43:54 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (b28ddd712f38ee114f2e34294db27673)] -> css selector: input.new-todo]' with value 'Preparing for next day'
+2020-06-11 18:49:10 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 18:49:10 [INFO ]navigation succeeded
+2020-06-11 18:49:10 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (2b7a74d2c5a153984067c885080aafb2)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 18:49:10 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (2b7a74d2c5a153984067c885080aafb2)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:49:10 [INFO ]Tasks added successfully
+2020-06-11 18:49:14 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (2b7a74d2c5a153984067c885080aafb2)] -> css selector: button.destroy]' button
+2020-06-11 18:49:14 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 18:49:14 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (2b7a74d2c5a153984067c885080aafb2)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:49:18 [INFO ]Verification of completed task passed successfully
+2020-06-11 18:49:18 [INFO ]Verifying active tasks passed successfully
+2020-06-11 18:49:18 [INFO ]Toggling all tasks
+2020-06-11 18:49:18 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (2b7a74d2c5a153984067c885080aafb2)] -> css selector: input.toggle-all]' button
+2020-06-11 18:49:18 [INFO ]Clearing all tasks
+2020-06-11 18:49:19 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:49:19 [INFO ]List is empty as expected
+2020-06-11 18:49:19 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (2b7a74d2c5a153984067c885080aafb2)] -> css selector: input.new-todo]' with value 'Take the dog out'
+2020-06-11 18:49:19 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (2b7a74d2c5a153984067c885080aafb2)] -> css selector: input.new-todo]' with value 'Ordering a new table'
+2020-06-11 18:49:19 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (2b7a74d2c5a153984067c885080aafb2)] -> css selector: input.new-todo]' with value 'Preparing for next day'
+2020-06-11 18:49:19 [INFO ]Toggling all tasks
+2020-06-11 18:49:20 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (2b7a74d2c5a153984067c885080aafb2)] -> css selector: input.toggle-all]' button
+2020-06-11 18:49:20 [INFO ]Clearing all tasks
+2020-06-11 18:49:20 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:49:42 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 18:49:42 [INFO ]navigation succeeded
+2020-06-11 18:49:42 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (77b58a17b80ed39d47da6dd82a8d0bf0)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 18:49:43 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (77b58a17b80ed39d47da6dd82a8d0bf0)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:49:43 [INFO ]Tasks added successfully
+2020-06-11 18:50:12 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (77b58a17b80ed39d47da6dd82a8d0bf0)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:50:15 [INFO ]Verification of completed task passed successfully
+2020-06-11 18:50:15 [INFO ]Toggling all tasks
+2020-06-11 18:50:16 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (77b58a17b80ed39d47da6dd82a8d0bf0)] -> css selector: input.toggle-all]' button
+2020-06-11 18:50:16 [INFO ]Clearing all tasks
+2020-06-11 18:50:33 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 18:50:33 [INFO ]navigation succeeded
+2020-06-11 18:50:33 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (4c4dbdb63c0b39762bef9c6475cf2a5c)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 18:50:34 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (4c4dbdb63c0b39762bef9c6475cf2a5c)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:50:34 [INFO ]Tasks added successfully
+2020-06-11 18:50:38 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (4c4dbdb63c0b39762bef9c6475cf2a5c)] -> css selector: button.destroy]' button
+2020-06-11 18:50:38 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 18:50:38 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (4c4dbdb63c0b39762bef9c6475cf2a5c)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:50:42 [INFO ]Verification of completed task passed successfully
+2020-06-11 18:50:43 [INFO ]Verifying active tasks passed successfully
+2020-06-11 18:50:43 [INFO ]Toggling all tasks
+2020-06-11 18:50:43 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (4c4dbdb63c0b39762bef9c6475cf2a5c)] -> css selector: input.toggle-all]' button
+2020-06-11 18:50:43 [INFO ]Clearing all tasks
+2020-06-11 18:50:45 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:50:52 [INFO ]List is empty as expected
+2020-06-11 18:50:52 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (4c4dbdb63c0b39762bef9c6475cf2a5c)] -> css selector: input.new-todo]' with value 'Take the dog out'
+2020-06-11 18:50:53 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (4c4dbdb63c0b39762bef9c6475cf2a5c)] -> css selector: input.new-todo]' with value 'Ordering a new table'
+2020-06-11 18:50:53 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (4c4dbdb63c0b39762bef9c6475cf2a5c)] -> css selector: input.new-todo]' with value 'Preparing for next day'
+2020-06-11 18:50:57 [INFO ]Toggling all tasks
+2020-06-11 18:51:01 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (4c4dbdb63c0b39762bef9c6475cf2a5c)] -> css selector: input.toggle-all]' button
+2020-06-11 18:51:01 [INFO ]Clearing all tasks
+2020-06-11 18:51:08 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:51:56 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 18:51:56 [INFO ]navigation succeeded
+2020-06-11 18:51:56 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (54c1fdead8f91bae9b20bc7df7dc671a)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 18:51:57 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (54c1fdead8f91bae9b20bc7df7dc671a)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:51:57 [INFO ]Tasks added successfully
+2020-06-11 18:52:00 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (54c1fdead8f91bae9b20bc7df7dc671a)] -> css selector: button.destroy]' button
+2020-06-11 18:52:00 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 18:52:00 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (54c1fdead8f91bae9b20bc7df7dc671a)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:52:20 [INFO ]Verification of completed task passed successfully
+2020-06-11 18:52:22 [INFO ]Verifying active tasks passed successfully
+2020-06-11 18:52:22 [INFO ]Toggling all tasks
+2020-06-11 18:52:23 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (54c1fdead8f91bae9b20bc7df7dc671a)] -> css selector: input.toggle-all]' button
+2020-06-11 18:52:23 [INFO ]Clearing all tasks
+2020-06-11 18:52:25 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:52:25 [INFO ]List is empty as expected
+2020-06-11 18:52:25 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (54c1fdead8f91bae9b20bc7df7dc671a)] -> css selector: input.new-todo]' with value 'Take the dog out'
+2020-06-11 18:52:26 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (54c1fdead8f91bae9b20bc7df7dc671a)] -> css selector: input.new-todo]' with value 'Ordering a new table'
+2020-06-11 18:52:26 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (54c1fdead8f91bae9b20bc7df7dc671a)] -> css selector: input.new-todo]' with value 'Preparing for next day'
+2020-06-11 18:52:36 [INFO ]Toggling all tasks
+2020-06-11 18:52:38 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (54c1fdead8f91bae9b20bc7df7dc671a)] -> css selector: input.toggle-all]' button
+2020-06-11 18:52:38 [INFO ]Clearing all tasks
+2020-06-11 18:52:39 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:53:31 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 18:53:31 [INFO ]navigation succeeded
+2020-06-11 18:53:31 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e3e5e94cf3e95f7b212748df03465001)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 18:53:32 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e3e5e94cf3e95f7b212748df03465001)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:53:32 [INFO ]Tasks added successfully
+2020-06-11 18:53:35 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (e3e5e94cf3e95f7b212748df03465001)] -> css selector: button.destroy]' button
+2020-06-11 18:53:35 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 18:53:36 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e3e5e94cf3e95f7b212748df03465001)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:53:39 [INFO ]Verification of completed task passed successfully
+2020-06-11 18:53:40 [INFO ]Verifying active tasks passed successfully
+2020-06-11 18:53:40 [INFO ]Toggling all tasks
+2020-06-11 18:53:40 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (e3e5e94cf3e95f7b212748df03465001)] -> css selector: input.toggle-all]' button
+2020-06-11 18:53:40 [INFO ]Clearing all tasks
+2020-06-11 18:53:40 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:53:40 [INFO ]List is empty as expected
+2020-06-11 18:53:41 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e3e5e94cf3e95f7b212748df03465001)] -> css selector: input.new-todo]' with value 'Take the dog out'
+2020-06-11 18:53:41 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e3e5e94cf3e95f7b212748df03465001)] -> css selector: input.new-todo]' with value 'Ordering a new table'
+2020-06-11 18:53:41 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e3e5e94cf3e95f7b212748df03465001)] -> css selector: input.new-todo]' with value 'Preparing for next day'
+2020-06-11 18:53:43 [INFO ]Toggling all tasks
+2020-06-11 18:53:45 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (e3e5e94cf3e95f7b212748df03465001)] -> css selector: input.toggle-all]' button
+2020-06-11 18:53:45 [INFO ]Clearing all tasks
+2020-06-11 18:53:47 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:55:38 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 18:55:38 [INFO ]navigation succeeded
+2020-06-11 18:55:39 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e04c9b5805261d5b7b8a13b92182e432)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 18:55:39 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e04c9b5805261d5b7b8a13b92182e432)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:55:39 [INFO ]Tasks added successfully
+2020-06-11 18:55:42 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (e04c9b5805261d5b7b8a13b92182e432)] -> css selector: button.destroy]' button
+2020-06-11 18:55:42 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 18:55:43 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e04c9b5805261d5b7b8a13b92182e432)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 18:55:47 [INFO ]Verification of completed task passed successfully
+2020-06-11 18:55:48 [INFO ]Verifying active tasks passed successfully
+2020-06-11 18:55:48 [INFO ]Toggling all tasks
+2020-06-11 18:55:48 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (e04c9b5805261d5b7b8a13b92182e432)] -> css selector: input.toggle-all]' button
+2020-06-11 18:55:48 [INFO ]Clearing all tasks
+2020-06-11 18:55:49 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 18:55:49 [INFO ]List is empty as expected
+2020-06-11 18:55:49 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e04c9b5805261d5b7b8a13b92182e432)] -> css selector: input.new-todo]' with value 'Take the dog out'
+2020-06-11 18:55:50 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e04c9b5805261d5b7b8a13b92182e432)] -> css selector: input.new-todo]' with value 'Ordering a new table'
+2020-06-11 18:55:50 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (e04c9b5805261d5b7b8a13b92182e432)] -> css selector: input.new-todo]' with value 'Preparing for next day'
+2020-06-11 18:55:57 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (e04c9b5805261d5b7b8a13b92182e432)] -> css selector: input.toggle-all]' button
+2020-06-11 19:02:34 [INFO ]No items left as expected
+2020-06-11 19:03:00 [INFO ]Navigate to url=[https://zalmoxisus.github.io/examples/todomvc/]
+2020-06-11 19:03:00 [INFO ]navigation succeeded
+2020-06-11 19:03:00 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: input.new-todo]' with value 'wash the dishes'
+2020-06-11 19:03:01 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 19:03:01 [INFO ]Tasks added successfully
+2020-06-11 19:03:07 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: button.destroy]' button
+2020-06-11 19:03:07 [INFO ]button=[take the garbage out] clicked successfully
+2020-06-11 19:03:07 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: input.new-todo]' with value 'take the garbage out'
+2020-06-11 19:03:14 [INFO ]Verification of completed task passed successfully
+2020-06-11 19:03:20 [INFO ]Verifying active tasks passed successfully
+2020-06-11 19:03:20 [INFO ]Toggling all tasks
+2020-06-11 19:03:20 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: input.toggle-all]' button
+2020-06-11 19:03:20 [INFO ]Clearing all tasks
+2020-06-11 19:03:20 [INFO ]click on 'Proxy element for: DefaultElementLocator 'By.cssSelector: button.clear-completed'' button
+2020-06-11 19:03:20 [INFO ]List is empty as expected
+2020-06-11 19:03:21 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: input.new-todo]' with value 'Take the dog out'
+2020-06-11 19:03:21 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: input.new-todo]' with value 'Ordering a new table'
+2020-06-11 19:03:22 [INFO ]set '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: input.new-todo]' with value 'Preparing for next day'
+2020-06-11 19:03:25 [INFO ]click on '[[ChromeDriver: chrome on WINDOWS (fefa64829f791f005d4c0833433d5d24)] -> css selector: input.toggle-all]' button
+2020-06-11 19:03:25 [INFO ]No items left as expected

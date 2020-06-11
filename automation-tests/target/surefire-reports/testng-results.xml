@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-11T16:02:52Z" name="Command line suite" finished-at="2020-06-11T16:03:26Z" duration-ms="33968">
+    <groups>
+    </groups>
+    <test started-at="2020-06-11T16:02:52Z" name="Command line test" finished-at="2020-06-11T16:03:26Z" duration-ms="33968">
+      <class name="com.stackpulse.automation.tests.ui.TodosTest">
+        <test-method is-config="true" signature="baseUiSetup()[pri:0, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:02:52Z" name="baseUiSetup" finished-at="2020-06-11T16:02:59Z" duration-ms="6299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUiSetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:02:59Z" name="setup" finished-at="2020-06-11T16:02:59Z" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="navigateToTodoPage()[pri:5, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:02:59Z" name="navigateToTodoPage" finished-at="2020-06-11T16:03:00Z" duration-ms="1469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTodoPage -->
+        <test-method is-config="true" signature="doAfterTestUnit(org.testng.ITestResult)[pri:0, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:00Z" name="doAfterTestUnit" finished-at="2020-06-11T16:03:00Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateToTodoPage status=SUCCESS method=TodosTest.navigateToTodoPage()[pri:5, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterTestUnit -->
+        <test-method signature="insertNewTask()[pri:10, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:00Z" name="insertNewTask" finished-at="2020-06-11T16:03:07Z" duration-ms="7045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insertNewTask -->
+        <test-method signature="verifyCompletedTasks()[pri:15, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:07Z" name="verifyCompletedTasks" finished-at="2020-06-11T16:03:14Z" duration-ms="6884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCompletedTasks -->
+        <test-method is-config="true" signature="doAfterTestUnit(org.testng.ITestResult)[pri:0, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:07Z" name="doAfterTestUnit" finished-at="2020-06-11T16:03:07Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=insertNewTask status=SUCCESS method=TodosTest.insertNewTask()[pri:10, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterTestUnit -->
+        <test-method is-config="true" signature="doAfterTestUnit(org.testng.ITestResult)[pri:0, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:14Z" name="doAfterTestUnit" finished-at="2020-06-11T16:03:14Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCompletedTasks status=SUCCESS method=TodosTest.verifyCompletedTasks()[pri:15, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterTestUnit -->
+        <test-method signature="verifyActiveTasks()[pri:20, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:14Z" name="verifyActiveTasks" finished-at="2020-06-11T16:03:20Z" duration-ms="5637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyActiveTasks -->
+        <test-method signature="clearAllTasksAndVerify()[pri:25, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:20Z" name="clearAllTasksAndVerify" finished-at="2020-06-11T16:03:20Z" duration-ms="689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearAllTasksAndVerify -->
+        <test-method is-config="true" signature="doAfterTestUnit(org.testng.ITestResult)[pri:0, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:20Z" name="doAfterTestUnit" finished-at="2020-06-11T16:03:20Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyActiveTasks status=SUCCESS method=TodosTest.verifyActiveTasks()[pri:20, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterTestUnit -->
+        <test-method signature="markAllTasksAsDone()[pri:30, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:20Z" name="markAllTasksAsDone" finished-at="2020-06-11T16:03:25Z" duration-ms="4945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- markAllTasksAsDone -->
+        <test-method is-config="true" signature="doAfterTestUnit(org.testng.ITestResult)[pri:0, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:20Z" name="doAfterTestUnit" finished-at="2020-06-11T16:03:20Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clearAllTasksAndVerify status=SUCCESS method=TodosTest.clearAllTasksAndVerify()[pri:25, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterTestUnit -->
+        <test-method is-config="true" signature="doAfterTestUnit(org.testng.ITestResult)[pri:0, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:25Z" name="doAfterTestUnit" finished-at="2020-06-11T16:03:25Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=markAllTasksAsDone status=SUCCESS method=TodosTest.markAllTasksAsDone()[pri:30, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterTestUnit -->
+        <test-method is-config="true" signature="baseUiTearDown()[pri:0, instance:com.stackpulse.automation.tests.ui.TodosTest@4d0f2471]" started-at="2020-06-11T16:03:25Z" name="baseUiTearDown" finished-at="2020-06-11T16:03:26Z" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUiTearDown -->
+      </class> <!-- com.stackpulse.automation.tests.ui.TodosTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
